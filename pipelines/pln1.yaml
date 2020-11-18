@@ -1,0 +1,6 @@
+resources:
+  pipelines: [ pipeline ]  
+  builds: [ build ]
+  repositories: [ repository ]
+  containers: [ container ]
+  packages: [ package ]
